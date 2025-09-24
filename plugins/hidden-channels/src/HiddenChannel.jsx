@@ -16,7 +16,7 @@ const MessageStyles = stylesheet.createThemedStyleSheet({
     },
     'title': {
         'fontFamily': constants.Fonts.PRIMARY_SEMIBOLD,
-        'fontSize': 24, 
+        'fontSize': 24,
         'textAlign': 'left',
         'color': semanticColors.HEADER_PRIMARY,
         'paddingVertical': 25
